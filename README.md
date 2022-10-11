@@ -1,2 +1,3 @@
 # MyinitialRepo
-This is just  for fun
+This is just joke
+
